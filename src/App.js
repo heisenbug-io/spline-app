@@ -60,10 +60,13 @@ const Wrapper = styled.div`
   overflow-x: hidden;
   
   .spline {
-    position: absolute;
+    position: fixed;
     margin: 0;
-    top: 0;
+    top: 5%;
     right: 0;
+    left: 25%;
+    z-index: 1;
+    
 
     @media (max-width: 1024px) {
       transform: scale(0.8) translateX(200px);
@@ -98,6 +101,7 @@ const Content = styled.div`
   }
 
   h1 {
+    z-index: 2;
     font-family: "Spline Sans Mono", sans-serif;
     font-weight: bold;
     font-size: 70px;
@@ -118,6 +122,7 @@ const Content = styled.div`
   }
 
   p {
+    z-index: 2;
     font-weight: normal;
     line-height: 150%;
     max-width: 380px;
@@ -168,6 +173,7 @@ const Menu = styled.ul`
   }
 
   li {
+    z-index: 2;
     list-style: none;
     margin: 0;
 
