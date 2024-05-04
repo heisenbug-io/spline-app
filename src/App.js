@@ -18,16 +18,16 @@ export default function App() {
               <img src={Logo} alt="Logo" />
             </li>
             <li>
-              <a href="/">Home</a>
+              <a href="https://heisenbug-io.github.io/spline-app/">Home</a>
             </li>
             <li>
-              <a href="/">Download</a>
+              <a href="https://heisenbug-io.github.io/spline-app/">Download</a>
             </li>
             <li>
-              <a href="/">App</a>
+              <a href="https://heisenbug-io.github.io/spline-app/">App</a>
             </li>
             <li>
-              <a href="/">Login</a>
+              <a href="https://heisenbug-io.github.io/spline-app/">Login</a>
             </li>
             <li>
               <button>Get Started</button>
