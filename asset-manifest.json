@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/spline-app/static/css/main.bb9b5958.css",
-    "main.js": "/spline-app/static/js/main.d2829287.js",
+    "main.css": "/spline-app/static/css/main.f5ac43ab.css",
+    "main.js": "/spline-app/static/js/main.ff0e3e55.js",
     "static/js/208.913bcbea.chunk.js": "/spline-app/static/js/208.913bcbea.chunk.js",
     "static/js/293.1fdc5803.chunk.js": "/spline-app/static/js/293.1fdc5803.chunk.js",
     "static/js/917.655300f3.chunk.js": "/spline-app/static/js/917.655300f3.chunk.js",
@@ -16,8 +16,8 @@
     "index.html": "/spline-app/index.html",
     "static/media/icon-laptop.svg": "/spline-app/static/media/icon-laptop.280f18924ab59a11e682d6c007230866.svg",
     "static/media/icon-youtube.svg": "/spline-app/static/media/icon-youtube.d6990689144097dfeb543d27c997298f.svg",
-    "main.bb9b5958.css.map": "/spline-app/static/css/main.bb9b5958.css.map",
-    "main.d2829287.js.map": "/spline-app/static/js/main.d2829287.js.map",
+    "main.f5ac43ab.css.map": "/spline-app/static/css/main.f5ac43ab.css.map",
+    "main.ff0e3e55.js.map": "/spline-app/static/js/main.ff0e3e55.js.map",
     "208.913bcbea.chunk.js.map": "/spline-app/static/js/208.913bcbea.chunk.js.map",
     "293.1fdc5803.chunk.js.map": "/spline-app/static/js/293.1fdc5803.chunk.js.map",
     "917.655300f3.chunk.js.map": "/spline-app/static/js/917.655300f3.chunk.js.map",
@@ -29,7 +29,7 @@
     "453.1c18ec8e.chunk.js.map": "/spline-app/static/js/453.1c18ec8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb9b5958.css",
-    "static/js/main.d2829287.js"
+    "static/css/main.f5ac43ab.css",
+    "static/js/main.ff0e3e55.js"
   ]
 }
